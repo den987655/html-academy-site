@@ -82,7 +82,11 @@ body {
   margin: 0 0 32px;
   text-align: center;
 }
-
+.intro-img  {
+  border: solid 1px #fff;
+  border-radius: 2%;
+  background-position: center;
+}
 .intro h3,
 .portfolio h3 {
   margin: 0 0 12px;
